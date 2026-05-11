@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=AuroraForecast
+PRODUCT_BUNDLE_IDENTIFIER=com.shpak.aurora.forecast.alerts.AuroraForecast$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
